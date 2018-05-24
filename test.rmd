@@ -7,3 +7,8 @@ output: html_document
 print("Hello World!")
 ```
 
+```{r}
+print("this will cause you problems")
+```
+
+
